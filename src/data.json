@@ -1,0 +1,126 @@
+{
+    "sleeve": [
+       { "id": "half sleeve", "label": "half sleeve" },
+       { "id": "full sleeve", "label": "full sleeve" },
+       { "id": "raglan sleeve", "label": "raglan sleeve" }
+    ],
+    "design": [
+       { "id": "graphic print", "label": "graphic print" },
+       { "id": "typography", "label": "typography" },
+       { "id": "solid", "label": "solid" },
+       { "id": "aop", "label": "aop" },
+       { "id": "printed", "label": "printed" },
+       { "id": "color block", "label": "color block" },
+       { "id": "striped", "label": "striped" },
+       { "id": "tie & dye", "label": "tie & dye" },
+       { "id": "textured", "label": "textured" },
+       { "id": "self design", "label": "self design" },
+       { "id": "abstract", "label": "abstract" },
+       { "id": "camouflage", "label": "camouflage" },
+       { "id": "ombre", "label": "ombre" },
+       { "id": "animal print", "label": "animal print" },
+       { "id": "checked", "label": "checked" },
+       { "id": "cut & sew", "label": "cut & sew" },
+       { "id": "embroidered", "label": "embroidered" }
+    ],
+    "brand": [
+      { "id": "bewakoof®", "label": "bewakoof®" },
+      { "id": "bewakoof air® 1.0", "label": "bewakoof air® 1.0" },
+      { "id": "bewakoof heavy duty® 1.0", "label": "bewakoof heavy duty® 1.0" },
+      { "id": "mad over print", "label": "mad over print" },
+      { "id": "weezy", "label": "weezy" },
+      { "id": "wearduds", "label": "wearduds" },
+      { "id": "instafab plus", "label": "instafab plus" },
+      { "id": "bewakoof american pima", "label": "bewakoof american pima" },
+      { "id": "door 74", "label": "door 74" },
+      { "id": "silisoul", "label": "silisoul" },
+      { "id": "big bunny", "label": "big bunny" },
+      { "id": "rigo", "label": "rigo" },
+      { "id": "olavi", "label": "olavi" }
+    ],
+    "neck": [
+      { "id": "round neck", "label": "round neck" },
+      { "id": "polo", "label": "polo" },
+      { "id": "v-neck", "label": "v-neck" },
+      { "id": "hooded", "label": "hooded" },
+      { "id": "henley neck", "label": "henley neck" }
+    ],
+    "type": [
+      { "id": "t-shirt", "label": "t-shirt"  },
+      { "id": "polo", "label": "polo"  }
+    ],
+    "fit": [
+      { "id": "oversized fit", "label": "oversized fit" },
+      { "id": "super loose fit", "label": "super loose fit" },
+      { "id": "boyfriend Fit", "label": "boyfriend Fit" }
+    ],
+    "sizes": [
+      { "id": "XS", "label": "XS"},
+      { "id": "S", "label": "S"},
+      { "id": "M", "label": "M"},
+      { "id": "L", "label": "L"},
+      { "id": "XL", "label": "XL"},
+      { "id": "2XL", "label": "2XL"},
+      { "id": "3XL", "label": "3XL"},
+      { "id": "4XL", "label": "4XL"},
+      { "id": "5XL", "label": "5XL"},
+      { "id": "6XL", "label": "6XL"}
+    ],
+    "colors": [
+      { "id": "#000000", "label": "black" },
+      { "id": "#FFFFFF", "label": "white" },
+      { "id": "#0000FF", "label": "blue" },
+      { "id": "#008000", "label": "green" },
+      { "id": "#663300", "label": "brown" },
+      { "id": "#800080", "label": "purple" },
+      { "id": "#FF0000", "label": "red" },
+      { "id": "#808080", "label": "grey" },
+      { "id": "#FF66FF", "label": "pink" },
+      { "id": "#FFA500", "label": "orange" },
+      { "id": "#F0E2A8", "label": "beige" },
+      { "id": "#622F40", "label": "maroon" },
+      { "id": "#FFFF00", "label": "yellow" }
+    ],
+    "occasion": [
+      { "id": "casual wear", "label": "casual wear"}
+    ],
+    "category": [
+      { "id": "men", "label": "men" },
+      { "id": "women", "label": "women" }
+    ],
+    "men_subcat": [
+      { "id": "oversized-tshirts", "label": "oversized-tshirts" },
+      { "id": "hoodies", "label": "hoodies" },
+      { "id": "joggers", "label": "joggers" },
+      { "id": "jeans", "label": "jeans" },
+      { "id": "classic_fit-tshirts", "label": "classic_fit-tshirts" },
+      { "id": "shirts", "label": "shirts" },
+      { "id": "sweatshirts", "label": "sweatshirts" },
+      { "id": "cargos", "label": "cargos" },
+      { "id": "sweaters", "label": "sweaters" },
+      { "id": "pants", "label": "pants" },
+      { "id": "pyjamas", "label": "pyjamas" },
+      { "id": "jackets", "label": "jackets" },
+      { "id": "full_sleeve-tshirts", "label": "full_sleeve-tshirts" },
+      { "id": "sneakers", "label": "sneakers" },
+      { "id": "plus-size", "label": "plus-size" }
+    ],
+    "women_subcat": [
+      { "id": "oversizedwomen-tshirts", "label": "oversizedwomen-tshirts" },
+      { "id": "hoodies", "label": "hoodies" },
+      { "id": "joggers", "label": "joggers" },
+      { "id": "jeans", "label": "jeans" },
+      { "id": "classic_fit-tshirts", "label": "classic_fit-tshirts" },
+      { "id": "shirts", "label": "shirts" },
+      { "id": "sweatshirts", "label": "sweatshirts" },
+      { "id": "cargos", "label": "cargos" },
+      { "id": "sweaters", "label": "sweaters" },
+      { "id": "pants", "label": "pants" },
+      { "id": "pyjamas", "label": "pyjamas" },
+      { "id": "jackets", "label": "jackets" },
+      { "id": "full_sleeve-tshirts", "label": "full_sleeve-tshirts" },
+      { "id": "sneakers", "label": "sneakers" },
+      { "id": "plus-size", "label": "plus-size" }
+    ]
+ }
+ 

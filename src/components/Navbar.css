@@ -1,0 +1,35 @@
+nav {
+    width: 85%;
+    height: 70px;
+    margin-left: 15%;
+    background-color: #171717;
+    border-bottom: 1px solid #292929; /* Subtle border */
+}
+nav ul {
+    height: 100%;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+nav ul li{
+    list-style: none;
+    cursor: pointer;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 8px 16px;
+    font-size: 18px;
+    color: #E4E4E4; /* Light Gray for Softer Look */
+    font-weight: 500;
+    border-radius: 4px;
+}
+a:hover {
+    background-color: #242424; /* Slightly lighter gray */
+    color: #8AB4F8; /* Google Blue Accent */
+}
+
+a.active, a:focus {
+    color: #8AB4F8; /* Soft Blue Active State */
+    font-weight: 600;
+}

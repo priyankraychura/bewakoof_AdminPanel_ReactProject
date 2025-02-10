@@ -1,0 +1,42 @@
+.sidebar-main {
+    position: fixed;
+    width: 15%;
+    height: 100vh;
+    /* border: 1px solid red; */
+    border-right: 1px solid #292929;
+    background-color: #171717;
+}
+.logo {
+    height: 70px;
+    border-bottom: 1px solid #292929;
+}
+.admin-actions ul {
+    margin-top: 15px;
+    /* border: 1px solid green; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sidebar-main ul li {
+    width: 90%;
+    cursor: pointer;
+    list-style: none;
+    padding: 7px 10px;
+    border-radius: 4px;
+    background-color: #242424;
+    /* border: 1px solid blue; */
+    margin: 10px 0;
+}
+a{
+    text-decoration: none;
+    font-size: 17px;
+    color: #E4E4E4; /* Light Gray for Softer Look */
+    font-weight: 500;
+}
+.sidebar-main ul li:hover {
+    color: #8AB4F8;
+}
+a.active, a:focus {
+    color: #8AB4F8; /* Soft Blue Active State */
+    font-weight: 600;
+}

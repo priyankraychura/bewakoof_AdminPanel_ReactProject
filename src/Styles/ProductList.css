@@ -1,0 +1,39 @@
+.main-show-products {
+    margin: 15px;
+    margin-left: 16%;
+}
+table {
+    width: 100%;
+    border: 2px solid #292929;
+    font-size: 13px;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #1E1E1E;
+}
+table tr th {
+    border-bottom: 2px solid #292929;
+    border-right: 2px solid #292929;
+    background-color: #1E1E1E;
+    /* border-radius: 8px; */
+}
+table tr td, th {
+    border-bottom: 1px solid #292929;
+    border-right: 1px solid #292929;
+    padding: 2px;
+}
+table tr td img {
+    width: 35px;
+}
+.actions {
+    width: 0;
+}
+.btns {
+    display: flex;
+    gap: 10px;
+}
+.img-field {
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 1px solid white; */
+}
+
