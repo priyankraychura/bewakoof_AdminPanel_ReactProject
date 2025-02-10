@@ -43,11 +43,13 @@
       { "id": "polo", "label": "polo" },
       { "id": "v-neck", "label": "v-neck" },
       { "id": "hooded", "label": "hooded" },
-      { "id": "henley neck", "label": "henley neck" }
+      { "id": "henley neck", "label": "henley neck" },
+      { "id": "Collar", "label": "Collar" }
     ],
     "type": [
-      { "id": "t-shirt", "label": "t-shirt"  },
-      { "id": "polo", "label": "polo"  }
+      { "id": "t-shirt", "label": "t-shirt" },
+      { "id": "polo", "label": "polo" },
+      { "id": "shirts", "label": "shirts" }
     ],
     "fit": [
       { "id": "oversized fit", "label": "oversized fit" },
